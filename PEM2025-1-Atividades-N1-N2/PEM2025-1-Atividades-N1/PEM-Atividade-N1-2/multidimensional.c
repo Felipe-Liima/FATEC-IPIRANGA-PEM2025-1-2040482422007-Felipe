@@ -4,7 +4,7 @@
 *          Prof. Veríssimo                                  *
 *-----------------------------------------------------------*
 * Objetivo do Programa: vetor multidimensional              *
-* Data - 07/03/20205                                        * 
+* Data - 07/03/2025                                        * 
 * Autor: Felipe Bezerra de Lima; 2040482422007              *
 *-----------------------------------------------------------*/
 #include <stdio.h>
