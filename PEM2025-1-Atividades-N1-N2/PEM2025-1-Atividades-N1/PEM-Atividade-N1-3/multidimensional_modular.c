@@ -4,7 +4,7 @@
 *          Prof. Veríssimo                                  *
 *-----------------------------------------------------------*
 * Objetivo do Programa: vetor multidimensional modular      *
-* Data - 14/03/20205                                        * 
+* Data - 14/03/2025                                        * 
 * Autor: Felipe Bezerra de Lima; 2040482422007              *
 *-----------------------------------------------------------*/
 
